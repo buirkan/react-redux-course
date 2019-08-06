@@ -22,9 +22,6 @@ ReactDOM.render(
     {/* <ComponenteCFuncao /> */}
     {/* <Familia sobrenome="Silva">
       <Membro nome="Felipe" />
-      <Membro nome="Cindy" />
-      <Membro nome="Pedro" />
-      <Membro nome="Elise" />
     </Familia> */}
     {/* <FamiliaSilva sobrenome="Silva" /> */}
     {/* <MultiElements /> */}

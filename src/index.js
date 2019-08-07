@@ -9,14 +9,18 @@ import ReactDOM from 'react-dom'
 // import Membro from './components/Membro'
 // import ComponenteCFuncao from './components/ComponenteComFuncao'
 // import Pai from './components/Pai'
-import {Contador} from './components/Contador'
+// import {Contador} from './components/Contador'
+// import HookComponent from './components/Hook'
+import {Form} from './components/MyOwnHook'
 
 // view area to render the component content
 const element = document.getElementById('root');
 
 ReactDOM.render(
   <div>
-    <Contador />
+    <Form />
+    {/* <HookComponent /> */}
+    {/* <Contador /> */}
     {/* <Contador numero={0} /> */}
     {/* <Pai /> */}
     {/* <ComponenteCFuncao /> */}
